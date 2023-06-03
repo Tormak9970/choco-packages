@@ -5,7 +5,7 @@
     <id>sarm</id>
     <version>2.6.0</version>
 
-    <packageSourceUrl>https://github.com/Tormak9970/choco-packages/sarm</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Tormak9970/choco-packages#sarm</packageSourceUrl>
     
     <title>Steam Art Manager</title>
     <authors>Travis Lane (Tormak)</authors>
