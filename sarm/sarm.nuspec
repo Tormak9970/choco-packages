@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>sarm</id>
+    <version>2.6.0</version>
+
+    <packageSourceUrl>https://github.com/Tormak9970/choco-packages/sarm</packageSourceUrl>
+    
+    <title>sarm (Install)</title>
+    <authors>Travis Lane (Tormak)</authors>
+    
+    <projectUrl>https://github.com/Tormak9970/Steam-Art-Manager</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Tormak9970/Steam-Art-Manager/main/public/logo.svg</iconUrl>
+
+    <copyright>2023 Travis Lane (Tormak)</copyright>
+    
+    <licenseUrl>https://github.com/Tormak9970/Steam-Art-Manager#licensing</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+
+    <projectSourceUrl>https://github.com/Tormak9970/Steam-Art-Manager</projectSourceUrl>
+    <docsUrl>https://github.com/Tormak9970/Steam-Art-Manager</docsUrl>
+    <bugTrackerUrl>https://github.com/Tormak9970/Steam-Art-Manager/issues</bugTrackerUrl>
+
+    <tags>sarm steam sgdb games</tags>
+
+    <summary>A tool for setting the artwork of your Steam library.</summary>
+    <description>A tool for setting the artwork of your Steam library.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
