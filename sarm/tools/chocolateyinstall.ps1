@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/Tormak9970/Steam-Art-Manager/releases/tag/v2.6.0/download/steam-art-manager.msi'
+$url        = 'https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v2.6.0/steam-art-manager.msi'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
