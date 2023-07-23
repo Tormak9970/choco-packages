@@ -10,7 +10,7 @@ $packageArgs = @{
 
   softwareName  = 'Steam Art Manager'
 
-  checksum      = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+  checksum      = '613be7e0239323a6a061aac885655e144716b6a90a37539cf7eaab1c751c6c99'
   checksumType  = 'sha256'
 
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
